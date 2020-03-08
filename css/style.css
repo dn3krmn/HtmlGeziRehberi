@@ -14,8 +14,7 @@ h3 {
 }
 
 .navbar-brand {
-	font-family: "Kaushan Script", cursive
-    /*font-family: 'Alex Brush', cursive;*/
+	font-family: "Kaushan Script", cursive;
 	font-size: 20px;
 	font-style: italic;
 	font-weight: 700;
@@ -44,7 +43,7 @@ h3 {
 
 .header-first-title {
 	margin-top: 30%;
-	color: #000;
+	color: #fff;
 	font-family: "Droid Serif", Serif;
 	font-size: 40px;
 	font-style: italic;
