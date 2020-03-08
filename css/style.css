@@ -1,0 +1,137 @@
+/* HEADER */
+html,
+body,
+#arkaplan {
+	height: 100%;
+	font-family: "Montserrat", sans-serif;
+
+
+}
+
+h3 {
+	font-weight: 700;
+	font-size: 40px;
+}
+
+.navbar-brand {
+	font-family: "Kaushan Script", cursive
+    /*font-family: 'Alex Brush', cursive;*/
+	font-size: 20px;
+	font-style: italic;
+	font-weight: 700;
+	color: #ff7fff !important;
+}
+
+#arkaplan {
+    background: url(../img/kapadokya.jpg) no-repeat center fixed;
+	background-color: transparent;
+	height: 750px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	padding: 120px 0;
+	color: #ffb;
+}
+
+
+.fixed-top {
+	margin-top: 0;
+	background-color: transparent;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.header-first-title {
+	margin-top: 30%;
+	color: #000;
+	font-family: "Droid Serif", Serif;
+	font-size: 40px;
+	font-style: italic;
+}
+
+.header-second-title {
+	color: #fff;
+	font-size: 75px;
+	font-weight: 700;
+	margin-bottom: 30px;
+	font-family: "Droid Serif", Serif;
+}
+
+
+a.nav-link {
+	font-size: 20px;
+	color: #fff !important;
+	transition: color 0.5s ease;
+	-webkit-transition: color 0.5s ease;
+	-moz-transition: color 0.5s ease;
+	-o-transition: color 0.5s ease;
+}
+
+a.nav-link:hover {
+	color: #ff7fff !important;
+}
+
+h5{
+	font-family: 'Alex Brush', cursive;
+}
+
+/* GEZİ REHBERİ */
+
+#gezi {
+	background-color: #f1e2d3;
+	padding-top: 110px;
+	padding-bottom: 70px;
+}
+
+.card {
+	border-style: 3px;
+}
+
+.gezi-content .row {
+	margin-bottom: 50px;
+}
+.gezi-content .card-title {
+	font-size: 28px;
+	font-weight: 700;
+}
+
+.gezi-content .card-subtitle {
+	font-size: 14px;
+	font-style: italic;
+	font-family: "Droid Serif", Serif;
+}
+
+/* BİZ KİMİZ?	*/
+
+#bizKimiz {
+	padding-top: 30px; 
+	background-color: #f1e2d3;
+}
+
+.bizKimiz-content .row{
+	margin-bottom: 90px;
+}
+.bizKimiz-content h4 {
+	font-size: 28px;
+	font-weight: 700;
+}
+
+.bizKimiz-content h3 {
+	font-size: 30px;
+	font-weight: 900;
+	font-family: 'Alex Brush', cursive;
+}
+
+.bizKimiz-content p {
+	font-family: 'Alex Brush', cursive;
+	font-size: 17px;
+	color: #000;
+	font-style: italic;
+}
+
+.bizKimiz-content .img-circle {
+	border-radius: 200px;
+	border: 10px solid #fff1ff;
+}
+
